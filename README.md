@@ -43,7 +43,7 @@ Technologies and Languages </h2>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Fyuran&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=HTML,Javascript"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Fyuran&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=HTML,Javascript,CSS"/>
   
   </td>
 </tr>
